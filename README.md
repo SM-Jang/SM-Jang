@@ -3,7 +3,7 @@
 - 👀 My research is an action recognition and action segmentation in video processing.
 - 📫 Feel free to reach me! : smsm8898@ajou.ac.kr
 
-
+===========
 |Duration|Contents|Description|
 |:---:|:---:|:---:|
 |2020.03 ~ 2022.02|Master's degree|Artifical Intelligence in Ajou Univ.|
