@@ -15,7 +15,7 @@
 |2021|Pattern Recognition Letters|Action Segmentation using Bezier Curvature as Spatio-Temporal Feature by Triplet Learning|
 |2021|KINGPC(Oral)|Comparison of Transformer and LSTM for threat detection and traffic prediction on long time-series data|
 |2019|Competition|Big Contest Innovation Field (Grand Prize):[2019 빅콘](https://www.bigcontest.or.kr/introduce/history2019.php)|
-|2019|Graduate Project in ICT|Prevent child and pets from being left in the vehicle:[ICT졸업작품] (http://swplus.ajou.ac.kr/bbs/board.php?tbl=bbs83&mode=VIEW&num=20&category=&findType=&findWord=&sort1=&sort2=&page=1&mobile_flag=)|
+|2019|Graduate Project in ICT|Prevent child and pets from being left in the vehicle:[ICT졸업작품](http://swplus.ajou.ac.kr/bbs/board.php?tbl=bbs83&mode=VIEW&num=20&category=&findType=&findWord=&sort1=&sort2=&page=1&mobile_flag=)|
 |2019|Workshop|Industrial Mathematics Workshop|
 |2018|Graduate Project in Math|Minigame: [수학과졸업작품](http://math.ajou.ac.kr/math/board/board01.jsp?mode=view&article_no=171051)|
 |2018|Competition|Industrial Mathematical Data Competition|
