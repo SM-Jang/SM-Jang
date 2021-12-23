@@ -21,4 +21,4 @@
 |2018|Competition|Industrial Mathematical Data Competition|
 |2017|Modern Mathematics Seminar|Made Life-Game by using Cellular Automata:[현수세](http://math.ajou.ac.kr/math/board/board01.jsp?mode=view&article_no=146895)|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smsm8898&show_icons=true&theme=radical)
