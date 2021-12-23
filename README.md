@@ -12,8 +12,10 @@
 |2019.07 ~ 2019.08|Internship|National Institute for Mathematical Sciences|
 |2018.01 ~ 2018.02|Internship|Quram Software|
 |2013.03 ~ 2020.02|Bachelor's Degree|Mathematics & ICT in Ajou Univ.|
-|2021|Pattern Recognition Letters|Action Segmentation using Bezier Curvature as Spatio-Temporal Feature by Triplet Learning|
-|2021|KINGPC(Oral)|Comparison of Transformer and LSTM for threat detection and traffic prediction on long time-series data|
+|2021|Pattern Recognition Letters|Action Segmentation using Bezier Curvature
+as Spatio-Temporal Feature by Triplet Learning|
+|2021|KINGPC(Oral)|Comparison of Transformer and LSTM for threat detection 
+and traffic prediction on long time-series data|
 |2019|Workshop|Industrial Mathematics Workshop|
 |2019|Competition|Big Contest Innovation Field (Grand Prize):[2019 빅콘](https://www.bigcontest.or.kr/introduce/history2019.php)|
 |2019|Graduate Project in ICT|Prevent child and pets from being left in the vehicle:[ICT졸업작품](http://swplus.ajou.ac.kr/bbs/board.php?tbl=bbs83&mode=VIEW&num=20&category=&findType=&findWord=&sort1=&sort2=&page=1&mobile_flag=)|
