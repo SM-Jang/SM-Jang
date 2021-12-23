@@ -3,7 +3,7 @@
 - 👀 My research is an action recognition and action segmentation in video processing.
 - 📫 Feel free to reach me! : smsm8898@ajou.ac.kr
 
-===========
+
 |Duration|Contents|Description|
 |:---:|:---:|:---:|
 |2020.03 ~ 2022.02|Master's degree|Artifical Intelligence in Ajou Univ.|
@@ -20,5 +20,6 @@
 |2018|Graduate Project in Math|Minigame: [수학과졸업작품](http://math.ajou.ac.kr/math/board/board01.jsp?mode=view&article_no=171051)|
 |2018|Competition|Industrial Mathematical Data Competition|
 |2017|Modern Mathematics Seminar|Made Life-Game by using Cellular Automata:[현수세](http://math.ajou.ac.kr/math/board/board01.jsp?mode=view&article_no=146895)|
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM-Jang&show_icons=true&theme=radical)
